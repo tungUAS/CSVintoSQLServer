@@ -7,11 +7,11 @@ const fileUpload = require("express-fileupload");
 
 
 const config = {
-    database: "paololog",
-    password: "biservice",
-    port: 1433,
-    server: "134.97.32.11",
-    user: "BIService",
+    database: "",
+    password: "",
+    port: ,
+    server: "",
+    user: "",
     trustServerCertificate: true,
     synchronize: true,  
   };
