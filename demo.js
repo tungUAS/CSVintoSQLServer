@@ -7,11 +7,11 @@ const fileUpload = require("express-fileupload");
 
 
 const config = {
-    database: "",
-    password: "",
-    port: ,
-    server: "",
-    user: "",
+    database: "yourDB",
+    password: "yourPW",
+    port: 1234,
+    server: "yourServer",
+    user: "user",
     trustServerCertificate: true,
     synchronize: true,  
   };
